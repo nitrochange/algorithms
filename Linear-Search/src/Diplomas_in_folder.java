@@ -18,6 +18,5 @@ public class Diplomas_in_folder {
             }
             result += folders[i];
         }
-        System.out.println(result - max);
     }
 }
